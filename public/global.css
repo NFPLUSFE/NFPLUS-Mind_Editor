@@ -1,0 +1,8 @@
+html{
+    font-size: 10px;
+}
+.r-v-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
